@@ -1,0 +1,7 @@
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\bin\Debug\pppzZadatakJedan.exe.config
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\bin\Debug\pppzZadatakJedan.exe
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\bin\Debug\pppzZadatakJedan.pdb
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\obj\Debug\pppzZadatakJedan.csproj.AssemblyReference.cache
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\obj\Debug\pppzZadatakJedan.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\obj\Debug\pppzZadatakJedan.exe
+C:\Users\unkno\source\repos\pppzZadatakJedan\pppzZadatakJedan\obj\Debug\pppzZadatakJedan.pdb
